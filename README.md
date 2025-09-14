@@ -58,7 +58,7 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-sahbaz-alam)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-sahbaz-alam-a95680262)  
 - 🐙 [GitHub](https://github.com/mdsahbazkhan)  
 - 🔗 [LeetCode](https://leetcode.com/u/sahbaz23/)  
 - 📧 Email: **amdsahbaz19@gmail.com**
