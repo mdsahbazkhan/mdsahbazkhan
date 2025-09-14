@@ -1,4 +1,4 @@
-0# Hi there, I'm Md Sahbaz Alam 👋
+# Hi there, I'm Md Sahbaz Alam 👋
 
 ## 🚀 About Me  
 I’m a **B.Tech Computer Science student at JNTUH** and a passionate software developer specializing in **web development**. Over the past few years, I’ve built **20+ responsive projects** using **JavaScript, React.js, Node.js**, and modern frameworks like **Tailwind CSS** and **Material UI (MUI)**.  
@@ -33,8 +33,8 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 ---
 
 ## 📂 Projects
-🔹 [**QuestionPucho.com**](https://questionpucho.com) – A StackOverflow-like platform for asking and answering questions  
-🔹 [**Healthcare Service**](https://healthcareservice7.netlify.app/) – Responsive health service website  
+🔹 [**QuestionPucho.com**]– A StackOverflow-like platform for asking and answering questions  
+🔹 [**Healthcare Service**] – Responsive health service website  
 🔹 **Inotebook** – Notes app with authentication  
 🔹 **20+ Mini Projects** – Responsive pages and interactive apps  
 
