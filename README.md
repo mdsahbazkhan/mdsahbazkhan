@@ -1,4 +1,4 @@
-# Hi there, I'm Md Sahbaz Alam 👋
+0# Hi there, I'm Md Sahbaz Alam 👋
 
 ## 🚀 About Me  
 I’m a **B.Tech Computer Science student at JNTUH** and a passionate software developer specializing in **web development**. Over the past few years, I’ve built **20+ responsive projects** using **JavaScript, React.js, Node.js**, and modern frameworks like **Tailwind CSS** and **Material UI (MUI)**.  
@@ -58,7 +58,7 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-sahbaz-alam-a95680262)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahbaz-alam-a95680262)  
 - 🐙 [GitHub](https://github.com/mdsahbazkhan)  
 - 🔗 [LeetCode](https://leetcode.com/u/sahbaz23/)  
 - 📧 Email: **amdsahbaz19@gmail.com**
