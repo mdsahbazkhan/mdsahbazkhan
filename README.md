@@ -43,17 +43,13 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 ## 📊 GitHub & LeetCode Stats
 
 ### 🔹 GitHub
-![Sahbaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsahbazkhan&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mdsahbazkhan&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mdsahbazkhan&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahbazkhan&layout=compact&theme=radical)
 
 ### 🔹 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sahbaz23?theme=dark&font=baloo&ext=heatmap)
 
----
-
-## 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=mdsahbazkhan&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
