@@ -33,7 +33,7 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 ---
 
 ## 📂 Projects
-🔹 [**QuestionPucho.com**]– A StackOverflow-like platform for asking and answering questions  
+🔹 [**QuestionPucho**]– A StackOverflow-like platform for asking and answering questions  
 🔹 [**Healthcare Service**] – Responsive health service website  
 🔹 **Inotebook** – Notes app with authentication  
 🔹 **20+ Mini Projects** – Responsive pages and interactive apps  
