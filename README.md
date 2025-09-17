@@ -43,7 +43,7 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 ## 📊 GitHub & LeetCode Stats
 
 ### 🔹 GitHub
-![GitHub Streak](https://streak-stats.demolab.com?user=mdsahbazkhan&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mdsahbazkhan&theme=radical)](https://github.com/mdsahbazkhan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahbazkhan&layout=compact&theme=radical)
 
