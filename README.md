@@ -48,7 +48,9 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahbazkhan&layout=compact&theme=radical)
 
 ### 🔹 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/sahbaz23?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sahbaz23?theme=dark)
+[![LeetCode Streak](https://yourdomain.com/badge/leetcode-streak/yourusername?theme=dark)](https://leetcode.com/sahbaz23)
+
 
 
 ---
