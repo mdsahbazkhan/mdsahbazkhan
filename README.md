@@ -49,7 +49,6 @@ Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for 
 
 ### 🔹 LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sahbaz23?theme=dark)
-[![LeetCode Streak](https://yourdomain.com/badge/leetcode-streak/yourusername?theme=dark)](https://leetcode.com/sahbaz23)
 
 
 
