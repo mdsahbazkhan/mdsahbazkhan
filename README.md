@@ -1,64 +1,130 @@
 # Hi there, I'm Md Sahbaz Alam 👋
 
-## 🚀 About Me  
-I’m a **B.Tech Computer Science student at JNTUH** and a passionate software developer specializing in **web development**. Over the past few years, I’ve built **20+ responsive projects** using **JavaScript, React.js, Node.js**, and modern frameworks like **Tailwind CSS** and **Material UI (MUI)**.  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</div>
 
-I’ve also **completed internships**, earned **certifications on HackerRank**, and enjoy **solving coding challenges** to sharpen my problem-solving skills. My focus is on building **user-friendly, scalable web applications** — from **UI/UX design** to **backend integration**.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsahbazkhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mdsahbazkhan?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-Currently, I’m **learning Data Structures & Algorithms (DSA)** to prepare for **product-based company roles**. I’m seeking opportunities to **apply my skills in real-world projects**, **collaborate with industry professionals**, and **grow as a full-stack developer**.  
+## 🚀 About Me
 
-💡 Let’s connect if you’re interested in **web development, React, or coding insights!** 🚀  
+I'm a **B.Tech Computer Science student at JNTUH** and a passionate software developer specializing in **web development**. Over the past few years, I've built **20+ responsive projects** using **JavaScript, React.js, Node.js**, and modern frameworks like **Tailwind CSS** and **Material UI (MUI)**.
+
+I've also **completed internships**, earned **certifications on HackerRank**, and enjoy **solving coding challenges** to sharpen my problem-solving skills. My focus is on building **user-friendly, scalable web applications** — from **UI/UX design** to **backend integration**.
+
+Currently, I'm **learning Data Structures & Algorithms (DSA)** to prepare for **product-based company roles**. I'm seeking opportunities to **apply my skills in real-world projects**, **collaborate with industry professionals**, and **grow as a full-stack developer**.
+
+💡 Let's connect if you're interested in **web development, React, or coding insights!** 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Styling
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
 
-### Tools
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
 ## 📂 Projects
-🔹 [**QuestionPucho**]– A StackOverflow-like platform for asking and answering questions  
-🔹 [**Healthcare Service**] – Responsive health service website  
-🔹 **Inotebook** – Notes app with authentication  
-🔹 **20+ Mini Projects** – Responsive pages and interactive apps  
+
+🔹 [**Portfolio**](https://sahbaz23.netlify.app/) – Personal portfolio website showcasing skills, projects, and experience with modern design  
+🔹 [**Bazario Ecommerce (MERN)**] – Full-stack ecommerce platform with user authentication, product management, and payment integration
+
+---
+
+## 🏆 Certifications & Achievements
+
+### 💻 HackerRank Certifications
+
+🎖️ [**JavaScript (Basic)**](https://www.hackerrank.com/certificates/iframe/a5bd53d1c368) – Demonstrates proficiency in ES6+, DOM manipulation, and asynchronous programming  
+🎖️ [**Problem Solving (Basic)**](https://www.hackerrank.com/certificates/e7947f46637f) – Validates algorithmic thinking and data structure implementation skills  
+🎖️ [**React (Basic)**](https://www.hackerrank.com/certificates/iframe/eb8ff037244e) – Certified in component lifecycle, state management, and modern React patterns  
+🎖️ [**SQL (Basic)**](https://www.hackerrank.com/certificates/30ff7226769e) – Proven expertise in database queries, joins, and data manipulation  
+🎖️ [**CSS (Basic)**](https://www.hackerrank.com/certificates/972bb37f049c) – Skilled in responsive design, flexbox, grid, and modern CSS techniques
+
+### 🏢 Industry Simulations
+
+🎖️ [**J.P. Morgan - Software Engineering Job Simulation**](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_6900fa17033b197e5f7ec875_1761911507578_completion_certificate.pdf) – Financial technology and software development  
+🎖️ [**Skyscanner - Front-End Software Engineering Job Simulation**](https://www.theforage.com/completion-certificates/skoQmxqhtgWmKv2pm/km4rw7dihDr3etqom_skoQmxqhtgWmKv2pm_6900fa17033b197e5f7ec875_1763816381003_completion_certificate.pdf) – Frontend development and user experience
 
 ---
 
 ## 📊 GitHub & LeetCode Stats
 
-### 🔹 GitHub
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mdsahbazkhan&theme=radical)](https://github.com/mdsahbazkhan)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsahbazkhan&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahbazkhan&layout=compact&theme=radical)
+### 🔹 GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mdsahbazkhan&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahbazkhan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsahbazkhan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ### 🔹 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/sahbaz23?theme=dark)
 
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sahbaz23?theme=dark" alt="LeetCode Stats" />
+</div>
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sahbaz-alam-a95680262)  
-- 🐙 [GitHub](https://github.com/mdsahbazkhan)  
-- 🔗 [LeetCode](https://leetcode.com/u/sahbaz23/)  
-- 📧 Email: **amdsahbaz19@gmail.com**
+
+<div align="center">
+  <a href="https://sahbaz23.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sahbaz-alam-a95680262">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mdsahbazkhan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/sahbaz23/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:amdsahbaz19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
-✨ _“Code. Learn. Build. Repeat.”_
+
+<div align="center">
+   <h3 style="color: #36BCF7">💭 "Programming isn't about what you know; it's about what you can figure out." - Chris Pine</h3>
+ 
+
+</div>
+
+---
+
+✨ _"Code. Learn. Build. Repeat."_
