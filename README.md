@@ -9,13 +9,22 @@
   <img src="https://img.shields.io/github/followers/mdsahbazkhan?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science student at JNTUH** and a passionate software developer specializing in **web development**. Over the past few years, I've built **20+ responsive projects** using **JavaScript, React.js, Node.js**, and modern frameworks like **Tailwind CSS** and **Material UI (MUI)**.
-
-I've also **completed internships**, earned **certifications on HackerRank**, and enjoy **solving coding challenges** to sharpen my problem-solving skills. My focus is on building **user-friendly, scalable web applications** — from **UI/UX design** to **backend integration**.
-
-Currently, I'm **learning Data Structures & Algorithms (DSA)** to prepare for **product-based company roles**. I'm seeking opportunities to **apply my skills in real-world projects**, **collaborate with industry professionals**, and **grow as a full-stack developer**.
+- 🎓 B.Tech Computer Science student at **JNTUH**
+- 💻 Frontend Developer passionate about building modern web applications
+- 🚀 Built **20+ responsive projects** using:
+  - HTML, CSS, JavaScript
+  - React.js
+  - Node.js, Express, MongoDB
+  - Tailwind CSS & Material UI (MUI)
+- 🎨 Focused on **responsive design** and **clean, user-friendly UI**
+- 🔗 Experience in **API integration** and full web application development
+- 🏆 Completed internships and earned **HackerRank certifications**
+- 🧠 Regularly practicing coding to improve **problem-solving skills**
+- 📚 Currently strengthening **Data Structures & Algorithms (DSA)**
+- 🌱 Goal: Become a **Full Stack (MERN) Developer**
+- 🤝 Open to **job opportunities, real-world projects, and collaboration**
 
 💡 Let's connect if you're interested in **web development, React, or coding insights!** 🚀
 
