@@ -86,11 +86,6 @@ Currently, I'm **learning Data Structures & Algorithms (DSA)** to prepare for **
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=mdsahbazkhan&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahbazkhan&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsahbazkhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ### 🔹 LeetCode
 
 <div align="center">
