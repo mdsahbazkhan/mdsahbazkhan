@@ -64,7 +64,7 @@
 ## 📂 Projects
 
 🔹 [**Portfolio**](https://sahbaz23.netlify.app/) – Personal portfolio website showcasing skills, projects, and experience with modern design  
-🔹 [**Bazario Ecommerce (MERN)**](https://bazario-frontend-one.vercel.app/) – Full-stack ecommerce platform with user authentication, product management, and payment integration
+🔹 [**BazarioX Ecommerce (MERN)**](https://bazario-frontend-one.vercel.app/) – Full-stack ecommerce platform with user authentication, product management, and payment integration
 
 ---
 
