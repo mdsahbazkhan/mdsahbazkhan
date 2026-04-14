@@ -1,4 +1,4 @@
-# Hi there, I'm Md Sahbaz Alam 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Md%20Sahbaz%20Alam&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Real-Time%20Systems&descAlignY=60&descSize=17&stroke=36BCF7&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
@@ -146,3 +146,5 @@ https://github.com/mdsahbazkhan/collabai-backend
 💭 *"First, solve the problem. Then, write the code."*
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
+
