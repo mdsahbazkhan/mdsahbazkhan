@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Md%20Sahbaz%20Alam&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Real-Time%20Systems&descAlignY=60&descSize=17&stroke=36BCF7&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Md%20Sahbaz%20Alam&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Generative%20AI&descAlignY=60&descSize=17&stroke=36BCF7&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=🚀+MERN+Stack+Developer;⚡+Real-Time+Apps+with+Socket.io;🌐+Full+Stack+Developer;🤖+Exploring+Generative+AI;💡+Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+MERN+Stack+Developer;🤖+Building+AI+Powered+Applications;⚡+Real-Time+Apps+with+Socket.io;🧠+Exploring+RAG+%26+AI+Agents;🌐+Full+Stack+Developer;💡+Building+Scalable+Web+Applications" />
 
 </div>
 
@@ -19,41 +19,67 @@
 - ⚡ Strong experience in **Real-Time Applications using WebSocket & Socket.io**
 - 🚀 Built **20+ responsive and production-ready applications**
 - 🔗 Skilled in **REST APIs, JWT authentication, and scalable architecture**
-- 🧠 Focused on solving real-world problems with clean and efficient code
-- 🤖 Exploring **Generative AI & AI-powered features**
-- 🤝 Open to **Frontend / Full Stack opportunities**
+- 🧠 Building AI-powered applications using **LangChain, RAG & AI Agents**
+- 📄 Developed conversational PDF AI systems using **Streamlit**
+- 🤖 Exploring **Generative AI & AI-powered systems**
+- 🤝 Open to **Frontend / Full Stack / GenAI opportunities**
 
 ---
 
 # 🚀 Featured Projects
+
+### 🤖 AI PDF RAG Assistant
+
+AI-powered conversational PDF assistant using modern GenAI stack.
+
+✨ Features:
+- 📄 Upload and chat with multiple PDFs
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔍 Semantic Search using Vector Embeddings
+- 🤖 AI Agent with Tool Calling
+- 💬 Conversational Memory
+- ⚡ Fast responses using Groq LLM
+
+🛠 Tech Stack:
+- LangChain
+- LangGraph
+- Groq
+- Gemini Embeddings
+- Streamlit
+- Vector Database
+
+📂 GitHub:  
+[GITHUB_LINK](https://github.com/mdsahbazkhan/GenAi/blob/main/apps/rag_agent_qna.py)
+
+---
 
 ### 🔥 CollabTasky – Real-Time SaaS Collaboration Platform
 
 A full-stack **real-time project management platform** inspired by modern SaaS tools.
 
 ✨ Features:
-- ⚡ **Real-time chat system with instant messaging (Socket.io + WebSocket)**
-- 🔄 **Live updates across users (tasks, boards, activities in real-time)**
-- 🔐 Role-Based Access Control (Admin, Member)
+- ⚡ Real-time chat system with instant messaging (Socket.io + WebSocket)
+- 🔄 Live updates across users
+- 🔐 Role-Based Access Control
 - 📋 Kanban board with drag-and-drop workflow
-- 🔑 Secure authentication using JWT
-- 👥 Team collaboration, task assignment & tracking
+- 🔑 JWT Authentication
+- 👥 Team collaboration & task tracking
 
-🔗 **Live:**  
+🔗 Live:  
 https://collab-tasky.vercel.app/
 
-📂 **Frontend:**  
-https://github.com/mdsahbazkhan/CollabTasky  
+📂 Frontend:  
+https://github.com/mdsahbazkhan/CollabTasky
 
-📂 **Backend:**  
-https://github.com/mdsahbazkhan/collabai-backend  
+📂 Backend:  
+https://github.com/mdsahbazkhan/collabai-backend
 
 ---
 
 ### 🛒 Bazario – E-commerce Platform
 
 ✨ Features:
-- 🔐 Authentication & Authorization (JWT)
+- 🔐 Authentication & Authorization
 - 📦 Product & Order Management
 - 🛠 Admin Dashboard
 - 📱 Fully responsive UI
@@ -103,8 +129,21 @@ https://github.com/mdsahbazkhan/collabai-backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+### 🧠 Generative AI & RAG
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector%20DB-4B0082?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
 
 ---
+
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -139,9 +178,11 @@ https://github.com/mdsahbazkhan/collabai-backend
 
 # 🏆 Achievements
 
-- 🚀 Built **20+ real-world projects**
-- ⚡ Developed **real-time chat & collaboration systems**
-- 📱 Strong in **responsive design & UI/UX**
+- 🚀 Built 20+ real-world projects
+- ⚡ Developed real-time chat & collaboration systems
+- 🤖 Built AI-powered RAG applications
+- 📄 Created conversational PDF AI assistants
+- 📱 Strong in responsive design & UI/UX
 
 ---
 
@@ -182,5 +223,5 @@ https://github.com/mdsahbazkhan/collabai-backend
 💭 *"First, solve the problem. Then, write the code."*
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
