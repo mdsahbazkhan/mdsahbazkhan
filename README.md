@@ -151,6 +151,7 @@ https://github.com/mdsahbazkhan/collabai-backend
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -174,6 +175,19 @@ https://github.com/mdsahbazkhan/collabai-backend
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 
+---
+# 🐳 Docker & DevOps
+
+### 🚀 Containerized Applications
+- 🐳 Dockerized Full Stack Applications
+- ⚡ Multi-container setup using Docker Compose
+- 🔐 Environment-based configuration using `.env`
+- 📦 Optimized production-ready builds
+- 🌐 Easy deployment across environments
+
+### 🛠 Docker Tech Stack
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1488C6?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 # 🏆 Achievements
