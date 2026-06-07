@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Md%20Sahbaz%20Alam&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Generative%20AI&descAlignY=60&descSize=17&stroke=36BCF7&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Md%20Sahbaz%20Alam&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20Python%20%2B%20MERN%20%2B%20Generative%20AI&descAlignY=60&descSize=17&stroke=36BCF7&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+MERN+Stack+Developer;🤖+Building+AI+Powered+Applications;⚡+Real-Time+Apps+with+Socket.io;🧠+Exploring+RAG+%26+AI+Agents;🌐+Full+Stack+Developer;💡+Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer;🤖+Building+GenAI+Applications;⚡+Building+Real-Time+SaaS+Platforms;🧠+RAG+%7C+LangChain+%7C+FastAPI;🐍+Python+%2B+MERN+Developer;💡+Building+Production-Ready+Applications" />
 
 </div>
 
@@ -20,7 +20,7 @@
 - 🚀 Built **20+ responsive and production-ready applications**
 - 🔗 Skilled in **REST APIs, JWT authentication, and scalable architecture**
 - 🧠 Building AI-powered applications using **LangChain, RAG & AI Agents**
-- 📄 Developed conversational PDF AI systems using **Streamlit**
+- 📄 Built Full Stack GenAI PDF Chatbots using React, FastAPI, LangChain, and RAG
 - 🤖 Exploring **Generative AI & AI-powered systems**
 - 🤝 Open to **Frontend / Full Stack / GenAI opportunities**
 
@@ -28,28 +28,29 @@
 
 # 🚀 Featured Projects
 
-### 🤖 AI PDF RAG Assistant
+### 🤖 Velquix – Full Stack GenAI PDF Chatbot
 
 AI-powered conversational PDF assistant using modern GenAI stack.
 
 ✨ Features:
-- 📄 Upload and chat with multiple PDFs
+- 📄 Upload and chat with PDF documents
 - 🧠 Retrieval-Augmented Generation (RAG)
-- 🔍 Semantic Search using Vector Embeddings
-- 🤖 AI Agent with Tool Calling
-- 💬 Conversational Memory
-- ⚡ Fast responses using Groq LLM
+- ⚡ Real-time streaming AI responses
+- 💬 Persistent chat history & session restoration
+- 🔍 Semantic search using ChromaDB
+- 📊 LangSmith observability
 
 🛠 Tech Stack:
+- React.js
+- FastAPI
 - LangChain
-- LangGraph
-- Groq
-- Gemini Embeddings
-- Streamlit
-- Vector Database
+- Groq Llama 3.3
+- ChromaDB
+- HuggingFace Embeddings
+- LangSmith
 
 📂 GitHub:  
-[GITHUB_LINK](https://github.com/mdsahbazkhan/GenAi/blob/main/apps/rag_agent_qna.py)
+[GITHUB_LINK](https://github.com/mdsahbazkhan/AI_ChatBot)
 
 ---
 
@@ -125,9 +126,12 @@ https://github.com/mdsahbazkhan/collabai-backend
 
 ---
 
-### 🗄️ Database
+### 🗄️ Databases & Caching
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -141,6 +145,7 @@ https://github.com/mdsahbazkhan/collabai-backend
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/Lang%20Smith-1B22D3?style=for-the-badge)
 
 ---
 
@@ -194,8 +199,8 @@ https://github.com/mdsahbazkhan/collabai-backend
 
 - 🚀 Built 20+ real-world projects
 - ⚡ Developed real-time chat & collaboration systems
-- 🤖 Built AI-powered RAG applications
-- 📄 Created conversational PDF AI assistants
+- 🤖 Built Full Stack GenAI applications using RAG and LangChain
+- 📄 Developed intelligent PDF chatbots with FastAPI and vector databases
 - 📱 Strong in responsive design & UI/UX
 
 ---
