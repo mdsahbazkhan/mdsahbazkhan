@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer;🤖+Building+GenAI+Applications;⚡+Building+Real-Time+SaaS+Platforms;🧠+RAG+%7C+LangChain+%7C+FastAPI;🐍+Python+%2B+MERN+Developer;💡+Building+Production-Ready+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer;🤖+Building+GenAI+Applications;⚡+Building+Real-Time+SaaS+Platforms;🧠+RAG+%7C+LangChain+%7C+FastAPI" />
 
 </div>
 
@@ -15,69 +15,52 @@
 
 # 👨‍💻 About Me
 
-- 💻 Full Stack Developer specializing in MERN stack (React.js, Node.js, MongoDB)
-- ⚡ Strong experience in **Real-Time Applications using WebSocket & Socket.io**
-- 🚀 Built **20+ responsive and production-ready applications**
-- 🔗 Skilled in **REST APIs, JWT authentication, and scalable architecture**
+- 💻 Full Stack Developer specializing in **MERN stack** (React.js, Node.js, MongoDB) and **Python/FastAPI**
+- 🤝 Frontend Developer Intern @ **Kognito Kube Private Limited** (Apr–Jun 2025)
 - 🧠 Building AI-powered applications using **LangChain, RAG & AI Agents**
-- 📄 Built Full Stack GenAI PDF Chatbots using React, FastAPI, LangChain, and RAG
-- 🤖 Exploring **Generative AI & AI-powered systems**
-- 🤝 Open to **Frontend / Full Stack / GenAI opportunities**
+- ⚡ Strong experience in real-time applications using WebSocket & Socket.io
+- 🔗 Skilled in REST APIs, JWT authentication, and scalable architecture
+- ☁️ Hands-on with AWS (EC2, S3, IAM, Lambda, API Gateway)
+- 🚀 Open to **Full Stack / Backend / GenAI Engineer** roles — open to relocation & remote
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Velquix – Full Stack GenAI PDF Chatbot
+### 🔥 CollabTasky – Real-Time SaaS Collaboration Platform
 
-AI-powered conversational PDF assistant using modern GenAI stack.
+Full-stack **Kanban-based project management platform** with live collaboration, inspired by modern SaaS tools.
 
 ✨ Features:
-- 📄 Upload and chat with PDF documents
-- 🧠 Retrieval-Augmented Generation (RAG)
-- ⚡ Real-time streaming AI responses
-- 💬 Persistent chat history & session restoration
-- 🔍 Semantic search using ChromaDB
-- 📊 LangSmith observability
+- 📋 Kanban board with drag-and-drop workflow
+- ⚡ Real-time chat & live updates across users (Socket.io + WebSocket)
+- 🔐 JWT Authentication & Role-Based Access Control
+- 👥 Team collaboration & task tracking
 
-🛠 Tech Stack:
-- React.js
-- FastAPI
-- LangChain
-- Groq Llama 3.3
-- ChromaDB
-- HuggingFace Embeddings
-- LangSmith
-
-📂 GitHub:  
-[GITHUB_LINK](https://github.com/mdsahbazkhan/AI_ChatBot)
+🔗 [Live Demo](https://collab-tasky.vercel.app/) · [Frontend Repo](https://github.com/mdsahbazkhan/CollabTasky) · [Backend Repo](https://github.com/mdsahbazkhan/collabai-backend)
 
 ---
 
-### 🔥 CollabTasky – Real-Time SaaS Collaboration Platform
+### 🤖 Velquix – Full Stack GenAI PDF Chatbot
 
-A full-stack **real-time project management platform** inspired by modern SaaS tools.
+AI-powered conversational assistant that lets users chat with PDF documents using RAG.
 
 ✨ Features:
-- ⚡ Real-time chat system with instant messaging (Socket.io + WebSocket)
-- 🔄 Live updates across users
-- 🔐 Role-Based Access Control
-- 📋 Kanban board with drag-and-drop workflow
-- 🔑 JWT Authentication
-- 👥 Team collaboration & task tracking
+- 📄 Upload and chat with PDF documents
+- 🧠 Retrieval-Augmented Generation (RAG) with semantic search via ChromaDB
+- ⚡ Real-time streaming AI responses
+- 💬 Persistent chat history & session restoration
+- 📊 LangSmith observability
 
-🔗 Live:  
-https://collab-tasky.vercel.app/
+🛠 Tech: React.js · FastAPI · LangChain · Groq Llama 3.3 · ChromaDB · HuggingFace Embeddings
 
-📂 Frontend:  
-https://github.com/mdsahbazkhan/CollabTasky
-
-📂 Backend:  
-https://github.com/mdsahbazkhan/collabai-backend
+🔗 [GitHub Repo](https://github.com/mdsahbazkhan/AI_ChatBot)
 
 ---
 
 ### 🛒 Bazario – E-commerce Platform
+
+Full-stack e-commerce app with authentication, order management, and an admin dashboard.
 
 ✨ Features:
 - 🔐 Authentication & Authorization
@@ -85,123 +68,42 @@ https://github.com/mdsahbazkhan/collabai-backend
 - 🛠 Admin Dashboard
 - 📱 Fully responsive UI
 
-🔗 https://bazario-frontend-one.vercel.app/
+🛠 Tech: React.js · Node.js · Express.js · MongoDB
+
+🔗 [Live Demo](https://bazario-frontend-one.vercel.app/)
 
 ---
 
 ### 🌐 Personal Portfolio
 
-🔗 https://sahbaz23.netlify.app/
+🔗 [sahbaz23.netlify.app](https://sahbaz23.netlify.app/)
 
 ---
 
 # 🛠️ Tech Stack
 
-### 🚀 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**GenAI:** ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-blue?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI-Assisted Development:** ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 ---
 
-### ⚡ Real-Time
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+# 🏆 Certifications
 
----
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 🗄️ Databases & Caching
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-### 🧠 Generative AI & RAG
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector%20DB-4B0082?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/Lang%20Smith-1B22D3?style=for-the-badge)
-
----
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🧠 Concepts
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT%20Auth-black?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-007ACC?style=for-the-badge)
-
----
-
-### 🤖 AI-Assisted Development
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=for-the-badge)
-
----
-
-### 🌐 Deployment
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-
----
-# 🐳 Docker & DevOps
-
-### 🚀 Containerized Applications
-- 🐳 Dockerized Full Stack Applications
-- ⚡ Multi-container setup using Docker Compose
-- 🔐 Environment-based configuration using `.env`
-- 📦 Optimized production-ready builds
-- 🌐 Easy deployment across environments
-
-### 🛠 Docker Tech Stack
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-1488C6?style=for-the-badge&logo=docker&logoColor=white)
----
-
-# 🏆 Achievements
-
-- 🚀 Built 20+ real-world projects
-- ⚡ Developed real-time chat & collaboration systems
-- 🤖 Built Full Stack GenAI applications using RAG and LangChain
-- 📄 Developed intelligent PDF chatbots with FastAPI and vector databases
-- 📱 Strong in responsive design & UI/UX
+- HackerRank: React, JavaScript, SQL, Problem Solving
+- LinkedIn Learning: React Essential Training
+- LinkedIn Learning: Generative AI — Introduction to Large Language Models
+- Udemy: Understanding TypeScript — For Beginner To Advanced
 
 ---
 
@@ -210,8 +112,6 @@ https://github.com/mdsahbazkhan/collabai-backend
 <div align="center">
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=mdsahbazkhan&theme=radical" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsahbazkhan&theme=react-dark&hide_border=true" />
 
 </div>
 
